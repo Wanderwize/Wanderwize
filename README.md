@@ -11,7 +11,7 @@ Header
 
 ### Мои проекты
 
-![MoviesExplorer](https://img.shields.io/badge/-MoviesExplorer-eb8034?style=for-the-badge), [Ссылка на проект](https://moviesexplorer.wander.nomoredomains.monster/)<br>
-![Mesto](https://img.shields.io/badge/-Mesto-eb9f34?style=for-the-badge), [Ссылка на репозиторий](https://github.com/Wanderwize/react-mesto-api-full-gha)<br>
-![ПроПутешествия](https://img.shields.io/badge/-путешествия-036ffc?style=for-the-badge), [Ссылка на репозиторий](https://github.com/Wanderwize/russian-travel)<br>
-![НаучитьсяУчиться](https://img.shields.io/badge/-Учимся-036ffc?style=for-the-badge), [Ссылка на репозиторий](https://github.com/Wanderwize/how-to-learn)<br>
+[![MoviesExplorer](https://img.shields.io/badge/-MoviesExplorer-eb8034?style=for-the-badge)](https://moviesexplorer.wander.nomoredomains.monster/)<br>
+[![Mesto](https://img.shields.io/badge/-Mesto-eb9f34?style=for-the-badge)](https://github.com/Wanderwize/react-mesto-api-full-gha)<br>
+[![ПроПутешествия](https://img.shields.io/badge/-путешествия-036ffc?style=for-the-badge)](https://github.com/Wanderwize/russian-travel)<br>
+[![НаучитьсяУчиться](https://img.shields.io/badge/-Учимся-036ffc?style=for-the-badge)](https://github.com/Wanderwize/how-to-learn)<br>
