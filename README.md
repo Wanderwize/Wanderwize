@@ -15,3 +15,5 @@
 [![НаучитьсяУчиться](https://img.shields.io/badge/-Учимся-05e9f5?style=for-the-badge)](https://github.com/Wanderwize/how-to-learn)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanderwize)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Исползуемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
