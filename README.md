@@ -11,7 +11,7 @@ Header
 
 ### Мои проекты
 
-![Movies Explorer](https://img.shields.io/badge/-Movies Explorer-eb8034?style=for-the-badge), [Ссылка на проект](https://moviesexplorer.wander.nomoredomains.monster/)
+![MoviesExplorer](https://img.shields.io/badge/-Movies Explorer-eb8034?style=for-the-badge), [Ссылка на проект](https://moviesexplorer.wander.nomoredomains.monster/)
 ![Mesto](https://img.shields.io/badge/-Mesto-eb9f34?style=for-the-badge), [Ссылка на репозиторий](https://github.com/Wanderwize/react-mesto-api-full-gha)
-![Про путешествия](https://img.shields.io/badge/-Про путешествия-036ffc?style=for-the-badge), [Ссылка на репозиторий](https://github.com/Wanderwize/russian-travel)
-![Научиться учиться](https://img.shields.io/badge/-Про путешествия-036ffc?style=for-the-badge), [Ссылка на репозиторий](https://github.com/Wanderwize/how-to-learn)
+![ПроПутешествия](https://img.shields.io/badge/-Про путешествия-036ffc?style=for-the-badge), [Ссылка на репозиторий](https://github.com/Wanderwize/russian-travel)
+![НаучитьсяУчиться](https://img.shields.io/badge/-Про путешествия-036ffc?style=for-the-badge), [Ссылка на репозиторий](https://github.com/Wanderwize/how-to-learn)
