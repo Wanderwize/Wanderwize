@@ -6,7 +6,7 @@ latest projects
 
 ### Стек технологий
 
-![HTML](https://img.shields.io/badge/-HTML-FA362A?style=for-the-badge&logo=appveyor&logo=html)
+![HTML](https://img.shields.io/badge/-HTML-FA362A?style=for-the-badge&logo=appveyor&logo=HTML)
 ![HTML](https://img.shields.io/badge/-HTML-#fc1703?style=for-the-badge&logo=appveyor)
 ![HTML](https://img.shields.io/badge/-HTML-#fc1703?style=for-the-badge&logo=appveyor)
 ![HTML](https://img.shields.io/badge/-HTML-#fc1703?style=for-the-badge&logo=appveyor)
